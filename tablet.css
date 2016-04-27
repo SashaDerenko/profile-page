@@ -1,0 +1,10 @@
+nav li{
+    margin: 10px;
+	padding: 0;
+}
+nav img{
+    display: none;
+}
+#name{
+    display: none;
+}
